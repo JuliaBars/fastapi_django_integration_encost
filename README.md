@@ -16,9 +16,9 @@ python manage.py createsuperuser
 ```
 ### Endpoints:
 
-`api/v1/endpoints_states` - get с limit offset для просмотра объектов EndpointStates
-`api/v1/endpoint_states` - возвращает ответ на задание 3.d из ТЗ
-`api/v1/endpoint_states_async` - асинк версия возвращает ответ на задание 3.d из ТЗ
+- `api/v1/endpoints_states` - get с limit offset для просмотра объектов EndpointStates
+- `api/v1/endpoint_states` - возвращает ответ на задание 3.d из ТЗ
+- `api/v1/endpoint_states_async` - асинк версия возвращает ответ на задание 3.d из ТЗ
 
 ---
 Сборка проекта:
