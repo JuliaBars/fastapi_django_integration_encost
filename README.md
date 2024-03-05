@@ -41,3 +41,8 @@ uvicorn encost.asgi:app --reload
 ```
 
 :point_right: Мой телеграм @JuliaBarss
+
+![image](https://github.com/JuliaBars/fastapi_django_integration_encost/assets/107411145/1b57acf7-4a35-4d5c-ae03-6c0a8354fc78)
+![image](https://github.com/JuliaBars/fastapi_django_integration_encost/assets/107411145/ee4d1aea-a3f7-46dd-a3c5-4cf874d01eac)
+
+
